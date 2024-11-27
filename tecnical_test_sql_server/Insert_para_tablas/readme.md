@@ -1,0 +1,1 @@
+Con los INSERT proporcionados, hemos asignado permisos a nivel de entidad completa y a nivel de registro específico para usuarios y roles. Luego, al ejecutar los procedimientos, se deberían devolver los permisos correctos asociados tanto a nivel de entidad como de registros individuales, mostrando cómo se gestionan los permisos en el sistema.
